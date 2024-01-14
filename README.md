@@ -1,0 +1,5 @@
+Celem projektu było stworzenie prostego kalkulatora w języku Python. Kalkulator ten miał umożliwiać wykonanie podstawowych operacji matematycznych, takich jak dodawanie, odejmowanie, mnożenie i dzielenie. Projekt ten miał na celu demonstrację podstawowych umiejętności programowania, w tym obsługi wejścia/wyjścia, operacji arytmetycznych oraz prostego zarządzania przepływem programu.
+
+Program został napisany w języku Python, ze względu na jego czytelność, prostotę oraz szerokie zastosowanie. Rozpoczęto od zdefiniowania czterech podstawowych funkcji matematycznych: dodawanie, odejmowanie, mnozenie, dzielenie. Następnie zaimplementowano interfejs użytkownika w konsoli, który pozwala użytkownikowi na wybór operacji i wprowadzenie dwóch liczb.
+
+Aby zwiększyć użyteczność programu, dodano pętlę, umożliwiającą wielokrotne wykonanie różnych obliczeń bez konieczności ponownego uruchamiania programu. Dodatkowo, w funkcji dzielenia zaimplementowano prostą kontrolę błędów, aby uniknąć dzielenia przez zero.
